@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Units>
+  <Unit Name="Reactor 1">
+    <Variables>
+      <Variable Name="model/R1xcbu_S_NHx" Header="Bulk concentration-SNHx"/>
+      <Variable Name="model/R1xcbf1_S_NHx" Header="Biofilm layer1-SNHx"/>
+      <Variable Name="model/R1xcbf2_S_NHx" Header="Biofilm layer2-SNHx"/>
+      <Variable Name="model/R1xcbf3_S_NHx" Header="Biofilm layer3-SNHx"/>
+      <Variable Name="model/R1xcbu_S_NO2" Header="Bulk concentration-SNO2"/>
+      <Variable Name="model/R1xcbf1_S_NO2" Header="Biofilm layer1-SNO2"/>
+      <Variable Name="model/R1xcbf2_S_NO2" Header="Biofilm layer2-SNO2"/>
+      <Variable Name="model/R1xcbf3_S_NO2" Header="Biofilm layer3-SNO2"/>
+      <Variable Name="model/R1xcbu_S_NO3" Header="Bulk concentration-SNO3"/>
+      <Variable Name="model/R1xcbf1_S_NO3" Header="Biofilm layer1-SNO3"/>
+      <Variable Name="model/R1xcbf2_S_NO3" Header="Biofilm layer2-SNO3"/>
+	    <Variable Name="model/R1xcbf3_S_NO3" Header="Biofilm layer3-SNO3"/>
+	    <Variable Name="model/R1xcbu_S_O2" Header="Bulk concentration-SO2"/>
+	    <Variable Name="model/R1xcbf1_S_O2" Header="Biofilm layer1-SO2"/>
+	    <Variable Name="model/R1xcbf2_S_O2" Header="Biofilm layer2-SO2"/>
+	    <Variable Name="model/R1xcbf3_S_O2" Header="Biofilm layer3-SO2"/>
+	    <Variable Name="model/R1xcbu_S_ALK" Header="Bulk concentration-SALK"/>
+	    <Variable Name="model/R1xcbf1_S_ALK" Header="Biofilm layer1-SALK"/>
+	    <Variable Name="model/R1xcbf2_S_ALK" Header="Biofilm layer2-SALK"/>
+	    <Variable Name="model/R1xcbf3_S_ALK" Header="Biofilm layer3-SALK"/>
+	    <!--<Variable Name="" Header="Bulk concentration-COD"/>
+	    <Variable Name="" Header="Bulk concentration-COD_fil"/>
+	    <Variable Name="" Header="Bulk concentration-TSS"/>
+	    <Variable Name="" Header="Bulk concentration-VSS"/>
+	    <Variable Name="" Header="Bulk concentration-BOD5_tot"/>
+	    <Variable Name="" Header="Bulk concentration-BOD5_fil"/>
+	    <Variable Name="" Header="Bulk concentration-N_tot"/>
+	    <Variable Name="" Header="Bulk concentration-TKN"/>
+	    <Variable Name="" Header="Bulk concentration-P_tot"/>-->
+    </Variables>
+  </Unit>
+  <Unit Name="Reactor 2">
+    <Variables>
+      <Variable Name="model/R2xcbu_S_NHx" Header="Bulk concentration-SNHx"/>
+      <Variable Name="model/R2xcbf1_S_NHx" Header="Biofilm layer1-SNHx"/>
+      <Variable Name="model/R2xcbf2_S_NHx" Header="Biofilm layer2-SNHx"/>
+      <Variable Name="model/R2xcbf3_S_NHx" Header="Biofilm layer3-SNHx"/>
+      <Variable Name="model/R2xcbu_S_NO2" Header="Bulk concentration-SNO2"/>
+      <Variable Name="model/R2xcbf1_S_NO2" Header="Biofilm layer1-SNO2"/>
+      <Variable Name="model/R2xcbf2_S_NO2" Header="Biofilm layer2-SNO2"/>
+      <Variable Name="model/R2xcbf3_S_NO2" Header="Biofilm layer3-SNO2"/>
+      <Variable Name="model/R2xcbu_S_NO3" Header="Bulk concentration-SNO3"/>
+      <Variable Name="model/R2xcbf1_S_NO3" Header="Biofilm layer1-SNO3"/>
+      <Variable Name="model/R2xcbf2_S_NO3" Header="Biofilm layer2-SNO3"/>
+	    <Variable Name="model/R2xcbf3_S_NO3" Header="Biofilm layer3-SNO3"/>
+	    <Variable Name="model/R2xcbu_S_O2" Header="Bulk concentration-SO2"/>
+	    <Variable Name="model/R2xcbf1_S_O2" Header="Biofilm layer1-SO2"/>
+	    <Variable Name="model/R2xcbf2_S_O2" Header="Biofilm layer2-SO2"/>
+	    <Variable Name="model/R2xcbf3_S_O2" Header="Biofilm layer3-SO2"/>
+	    <Variable Name="model/R2xcbu_S_ALK" Header="Bulk concentration-SALK"/>
+	    <Variable Name="model/R2xcbf1_S_ALK" Header="Biofilm layer1-SALK"/>
+	    <Variable Name="model/R2xcbf2_S_ALK" Header="Biofilm layer2-SALK"/>
+	    <Variable Name="model/R2xcbf3_S_ALK" Header="Biofilm layer3-SALK"/>
+	    <!--<Variable Name="" Header="Bulk concentration-COD"/>
+	    <Variable Name="" Header="Bulk concentration-COD_fil"/>
+	    <Variable Name="" Header="Bulk concentration-TSS"/>
+	    <Variable Name="" Header="Bulk concentration-VSS"/>
+	    <Variable Name="" Header="Bulk concentration-BOD5_tot"/>
+	    <Variable Name="" Header="Bulk concentration-BOD5_fil"/>
+	    <Variable Name="" Header="Bulk concentration-N_tot"/>
+	    <Variable Name="" Header="Bulk concentration-TKN"/>
+	    <Variable Name="" Header="Bulk concentration-P_tot"/>-->
+    </Variables>
+  </Unit>
+  <Unit Name="Reactor 3">
+    <Variables>
+      <Variable Name="model/R3xcbu_S_NHx" Header="Bulk concentration-SNHx"/>
+      <Variable Name="model/R3xcbf1_S_NHx" Header="Biofilm layer1-SNHx"/>
+      <Variable Name="model/R3xcbf2_S_NHx" Header="Biofilm layer2-SNHx"/>
+      <Variable Name="model/R3xcbf3_S_NHx" Header="Biofilm layer3-SNHx"/>
+      <Variable Name="model/R3xcbu_S_NO2" Header="Bulk concentration-SNO2"/>
+      <Variable Name="model/R3xcbf1_S_NO2" Header="Biofilm layer1-SNO2"/>
+      <Variable Name="model/R3xcbf2_S_NO2" Header="Biofilm layer2-SNO2"/>
+      <Variable Name="model/R3xcbf3_S_NO2" Header="Biofilm layer3-SNO2"/>
+      <Variable Name="model/R3xcbu_S_NO3" Header="Bulk concentration-SNO3"/>
+      <Variable Name="model/R3xcbf1_S_NO3" Header="Biofilm layer1-SNO3"/>
+      <Variable Name="model/R3xcbf2_S_NO3" Header="Biofilm layer2-SNO3"/>
+	    <Variable Name="model/R3xcbf3_S_NO3" Header="Biofilm layer3-SNO3"/>
+	    <Variable Name="model/R3xcbu_S_O2" Header="Bulk concentration-SO2"/>
+	    <Variable Name="model/R3xcbf1_S_O2" Header="Biofilm layer1-SO2"/>
+	    <Variable Name="model/R3xcbf2_S_O2" Header="Biofilm layer2-SO2"/>
+	    <Variable Name="model/R3xcbf3_S_O2" Header="Biofilm layer3-SO2"/>
+	    <Variable Name="model/R3xcbu_S_ALK" Header="Bulk concentration-SALK"/>
+	    <Variable Name="model/R3xcbf1_S_ALK" Header="Biofilm layer1-SALK"/>
+	    <Variable Name="model/R3xcbf2_S_ALK" Header="Biofilm layer2-SALK"/>
+	    <Variable Name="model/R3xcbf3_S_ALK" Header="Biofilm layer3-SALK"/>
+	    <!--<Variable Name="" Header="Bulk concentration-COD"/>
+	    <Variable Name="" Header="Bulk concentration-COD_fil"/>
+	    <Variable Name="" Header="Bulk concentration-TSS"/>
+	    <Variable Name="" Header="Bulk concentration-VSS"/>
+	    <Variable Name="" Header="Bulk concentration-BOD5_tot"/>
+	    <Variable Name="" Header="Bulk concentration-BOD5_fil"/>
+	    <Variable Name="" Header="Bulk concentration-N_tot"/>
+	    <Variable Name="" Header="Bulk concentration-TKN"/>
+	    <Variable Name="" Header="Bulk concentration-P_tot"/>-->
+    </Variables>
+  </Unit>
+  <Unit Name="Reactor 4">
+    <Variables>
+      <Variable Name="model/R4xcbu_S_NHx" Header="Bulk concentration-SNHx"/>
+      <Variable Name="model/R4xcbf1_S_NHx" Header="Biofilm layer1-SNHx"/>
+      <Variable Name="model/R4xcbf2_S_NHx" Header="Biofilm layer2-SNHx"/>
+      <Variable Name="model/R4xcbf3_S_NHx" Header="Biofilm layer3-SNHx"/>
+      <Variable Name="model/R4xcbu_S_NO2" Header="Bulk concentration-SNO2"/>
+      <Variable Name="model/R4xcbf1_S_NO2" Header="Biofilm layer1-SNO2"/>
+      <Variable Name="model/R4xcbf2_S_NO2" Header="Biofilm layer2-SNO2"/>
+      <Variable Name="model/R4xcbf3_S_NO2" Header="Biofilm layer3-SNO2"/>
+      <Variable Name="model/R4xcbu_S_NO3" Header="Bulk concentration-SNO3"/>
+      <Variable Name="model/R4xcbf1_S_NO3" Header="Biofilm layer1-SNO3"/>
+      <Variable Name="model/R4xcbf2_S_NO3" Header="Biofilm layer2-SNO3"/>
+	    <Variable Name="model/R4xcbf3_S_NO3" Header="Biofilm layer3-SNO3"/>
+	    <Variable Name="model/R4xcbu_S_O2" Header="Bulk concentration-SO2"/>
+	    <Variable Name="model/R4xcbf1_S_O2" Header="Biofilm layer1-SO2"/>
+	    <Variable Name="model/R4xcbf2_S_O2" Header="Biofilm layer2-SO2"/>
+	    <Variable Name="model/R4xcbf3_S_O2" Header="Biofilm layer3-SO2"/>
+	    <Variable Name="model/R4xcbu_S_ALK" Header="Bulk concentration-SALK"/>
+	    <Variable Name="model/R4xcbf1_S_ALK" Header="Biofilm layer1-SALK"/>
+	    <Variable Name="model/R4xcbf2_S_ALK" Header="Biofilm layer2-SALK"/>
+	    <Variable Name="model/R4xcbf3_S_ALK" Header="Biofilm layer3-SALK"/>
+	    <!--<Variable Name="" Header="Bulk concentration-COD"/>
+	    <Variable Name="" Header="Bulk concentration-COD_fil"/>
+	    <Variable Name="" Header="Bulk concentration-TSS"/>
+	    <Variable Name="" Header="Bulk concentration-VSS"/>
+	    <Variable Name="" Header="Bulk concentration-BOD5_tot"/>
+	    <Variable Name="" Header="Bulk concentration-BOD5_fil"/>
+	    <Variable Name="" Header="Bulk concentration-N_tot"/>
+	    <Variable Name="" Header="Bulk concentration-TKN"/>
+	    <Variable Name="" Header="Bulk concentration-P_tot"/>-->
+    </Variables>
+  </Unit>
+  <Unit Name="Reactor 5">
+    <Variables>
+      <Variable Name="model/R5xcbu_S_NHx" Header="Bulk concentration-SNHx"/>
+      <Variable Name="model/R5xcbf1_S_NHx" Header="Biofilm layer1-SNHx"/>
+      <Variable Name="model/R5xcbf2_S_NHx" Header="Biofilm layer2-SNHx"/>
+      <Variable Name="model/R5xcbf3_S_NHx" Header="Biofilm layer3-SNHx"/>
+      <Variable Name="model/R5xcbu_S_NO2" Header="Bulk concentration-SNO2"/>
+      <Variable Name="model/R5xcbf1_S_NO2" Header="Biofilm layer1-SNO2"/>
+      <Variable Name="model/R5xcbf2_S_NO2" Header="Biofilm layer2-SNO2"/>
+      <Variable Name="model/R5xcbf3_S_NO2" Header="Biofilm layer3-SNO2"/>
+      <Variable Name="model/R5xcbu_S_NO3" Header="Bulk concentration-SNO3"/>
+      <Variable Name="model/R5xcbf1_S_NO3" Header="Biofilm layer1-SNO3"/>
+      <Variable Name="model/R5xcbf2_S_NO3" Header="Biofilm layer2-SNO3"/>
+	    <Variable Name="model/R5xcbf3_S_NO3" Header="Biofilm layer3-SNO3"/>
+	    <Variable Name="model/R5xcbu_S_O2" Header="Bulk concentration-SO2"/>
+	    <Variable Name="model/R5xcbf1_S_O2" Header="Biofilm layer1-SO2"/>
+	    <Variable Name="model/R5xcbf2_S_O2" Header="Biofilm layer2-SO2"/>
+	    <Variable Name="model/R5xcbf3_S_O2" Header="Biofilm layer3-SO2"/>
+	    <Variable Name="model/R5xcbu_S_ALK" Header="Bulk concentration-SALK"/>
+	    <Variable Name="model/R5xcbf1_S_ALK" Header="Biofilm layer1-SALK"/>
+	    <Variable Name="model/R5xcbf2_S_ALK" Header="Biofilm layer2-SALK"/>
+	    <Variable Name="model/R5xcbf3_S_ALK" Header="Biofilm layer3-SALK"/>
+	    <!--<Variable Name="" Header="Bulk concentration-COD"/>
+	    <Variable Name="" Header="Bulk concentration-COD_fil"/>
+	    <Variable Name="" Header="Bulk concentration-TSS"/>
+	    <Variable Name="" Header="Bulk concentration-VSS"/>
+	    <Variable Name="" Header="Bulk concentration-BOD5_tot"/>
+	    <Variable Name="" Header="Bulk concentration-BOD5_fil"/>
+	    <Variable Name="" Header="Bulk concentration-N_tot"/>
+	    <Variable Name="" Header="Bulk concentration-TKN"/>
+	    <Variable Name="" Header="Bulk concentration-P_tot"/>-->
+    </Variables>
+  </Unit>
+  <Unit Name="Reactor 6">
+    <Variables>
+      <Variable Name="model/R6xcbu_S_NHx" Header="Bulk concentration-SNHx"/>
+      <Variable Name="model/R6xcbf1_S_NHx" Header="Biofilm layer1-SNHx"/>
+      <Variable Name="model/R6xcbf2_S_NHx" Header="Biofilm layer2-SNHx"/>
+      <Variable Name="model/R6xcbf3_S_NHx" Header="Biofilm layer3-SNHx"/>
+      <Variable Name="model/R6xcbu_S_NO2" Header="Bulk concentration-SNO2"/>
+      <Variable Name="model/R6xcbf1_S_NO2" Header="Biofilm layer1-SNO2"/>
+      <Variable Name="model/R6xcbf2_S_NO2" Header="Biofilm layer2-SNO2"/>
+      <Variable Name="model/R6xcbf3_S_NO2" Header="Biofilm layer3-SNO2"/>
+      <Variable Name="model/R6xcbu_S_NO3" Header="Bulk concentration-SNO3"/>
+      <Variable Name="model/R6xcbf1_S_NO3" Header="Biofilm layer1-SNO3"/>
+      <Variable Name="model/R6xcbf2_S_NO3" Header="Biofilm layer2-SNO3"/>
+	  <Variable Name="model/R6xcbf3_S_NO3" Header="Biofilm layer3-SNO3"/>
+	  <Variable Name="model/R6xcbu_S_O2" Header="Bulk concentration-SO2"/>
+	  <Variable Name="model/R6xcbf1_S_O2" Header="Biofilm layer1-SO2"/>
+	  <Variable Name="model/R6xcbf2_S_O2" Header="Biofilm layer2-SO2"/>
+	  <Variable Name="model/R6xcbf3_S_O2" Header="Biofilm layer3-SO2"/>
+	  <Variable Name="model/R6xcbu_S_ALK" Header="Bulk concentration-SALK"/>
+	  <Variable Name="model/R6xcbf1_S_ALK" Header="Biofilm layer1-SALK"/>
+	  <Variable Name="model/R6xcbf2_S_ALK" Header="Biofilm layer2-SALK"/>
+	  <Variable Name="model/R6xcbf3_S_ALK" Header="Biofilm layer3-SALK"/>
+	  <!--<Variable Name="" Header="Bulk concentration-COD"/>
+	  <Variable Name="" Header="Bulk concentration-COD_fil"/>
+	  <Variable Name="" Header="Bulk concentration-TSS"/>
+	  <Variable Name="" Header="Bulk concentration-VSS"/>
+	  <Variable Name="" Header="Bulk concentration-BOD5_tot"/>
+	  <Variable Name="" Header="Bulk concentration-BOD5_fil"/>
+	  <Variable Name="" Header="Bulk concentration-N_tot"/>
+	  <Variable Name="" Header="Bulk concentration-TKN"/>
+	  <Variable Name="" Header="Bulk concentration-P_tot"/>-->
+    </Variables>
+  </Unit>
+
+ <Unit Name="Effluent from FCR">
+    <Variables>
+      <Variable Name="model/R6y_yQ" Header="Q"/>
+      <Variable Name="model/R6y_yS_NHx" Header="SNHx"/>
+      <Variable Name="model/R6y_yS_NO3" Header="SNO3"/>
+      <Variable Name="model/R6y_yS_NO2" Header="SNO2"/>
+      <Variable Name="model/R6y_yS_O2" Header="SO2"/>
+      <Variable Name="model/R6y_yS_ALK" Header="SALK"/>
+      <!-- <Variable Name="model/R6y_y" Header="COD"/>
+      <Variable Name="model/R6y_y" Header="COD_fil"/>
+      <Variable Name="model/R6y_y" Header="TSS"/>
+      <Variable Name="model/R6y_y" Header="VSS"/>
+      <Variable Name="model/R6y_y" Header="BOD5_tot"/>
+	  <Variable Name="model/R6y_y" Header="BOD5_fil"/>
+	  <Variable Name="model/R6y_y" Header="N_tot"/>
+	  <Variable Name="model/R6y_y" Header="TKN"/>
+	  <Variable Name="model/R6y_y" Header="P_tot"/>-->
+    </Variables>
+  </Unit>
+  <!--<Unit Name="Final effluent">
+    <Variables>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+      <Variable Name="model/SCidealTS1y_yef" Header=""/>
+	  <Variable Name="model/SCidealTS1y_yef" Header=""/>
+	  <Variable Name="model/SCidealTS1y_yef" Header=""/>
+	  <Variable Name="model/SCidealTS1y_yef" Header=""/>
+	  <Variable Name="model/SCidealTS1y_yef" Header=""/>
+    </Variables>
+  </Unit>
+  <Unit Name="Aeration">
+    <Variables>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+	  <Variable Name="" Header=""/>
+	  <Variable Name="" Header=""/>
+	  <Variable Name="" Header=""/>
+	  <Variable Name="" Header=""/>
+    </Variables>
+  </Unit>
+  <Unit Name="Sludge to thickner">
+    <Variables>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+    </Variables>
+  </Unit>
+  <Unit Name="Sludge to dewatering unit">
+    <Variables>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+    </Variables>
+  </Unit>
+  <Unit Name="Leachate from thickener">
+    <Variables>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+    </Variables>
+  </Unit>
+  <Unit Name="Leachate from dewatering">
+    <Variables>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+    </Variables>
+  </Unit>
+  <Unit Name="Biofilm parameters">
+    <Variables>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+    </Variables>
+  </Unit>
+  <Unit Name="Methanol dosage">
+    <Variables>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+    </Variables>
+  </Unit>
+  <Unit Name="Internal recycle flow">
+    <Variables>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+      <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+	    <Variable Name="" Header=""/>
+    </Variables>
+  </Unit>-->
+  <Unit Name="Influent">
+    <Variables>
+      <Variable Name="Influent/DWPy_yQ" Header="q [m3/d]" />
+      <Variable Name="Influent/DWPy_yCOD" Header="COD" />
+      <Variable Name="Influent/DWPy_yTKN" Header="TKN" />
+      <Variable Name="Influent/DWPy_yTP" Header="TP" />
+      <Variable Name="Influent/DWPy_yISS" Header="ISS" />
+      <Variable Name="Influent/DWPy_yAlk" Header="Alkalinity" />
+      <Variable Name="model/Frac_asy_yS_VFA" Header="svfa" />
+      <Variable Name="model/Frac_asy_yS_F" Header="sf" />
+      <Variable Name="model/Frac_asy_yC_B" Header="cb" />
+      <Variable Name="model/Frac_asy_yX_B" Header="xb" />
+      <Variable Name="model/Frac_asy_yS_U" Header="su" />
+	  <Variable Name="model/Frac_asy_yC_U" Header="cu" />
+      <Variable Name="model/Frac_asy_yX_U" Header="xu" />
+      <Variable Name="model/Frac_asy_yX_E" Header="xe" />
+      <Variable Name="model/Frac_asy_yX_OHO" Header="xoho" />
+      <Variable Name="model/Frac_asy_yX_AOO" Header="xaoo" />
+	  <Variable Name="model/Frac_asy_yX_NOO" Header="xnoo" />
+      <Variable Name="model/Frac_asy_yX_PREDO" Header="xpredo" />
+      <Variable Name="model/Frac_asy_yS_NHx" Header="snhx" />
+      <Variable Name="model/Frac_asy_yS_NO2" Header="sno2" />
+      <Variable Name="model/Frac_asy_yS_NO3" Header="sno3" />
+	  <Variable Name="model/Frac_asy_yS_N2" Header="sn2" />
+	  <Variable Name="model/Frac_asy_yS_N_F" Header="snf" />
+	  <Variable Name="model/Frac_asy_yX_N_B" Header="xnb" />
+	  <Variable Name="model/Frac_asy_yX_N_U" Header="xnu" />
+	  <Variable Name="model/Frac_asy_yS_PO4" Header="spo4" />
+	  <Variable Name="model/Frac_asy_yS_P_F" Header="spf" />
+	  <Variable Name="model/Frac_asy_yX_P_B" Header="xpb" />
+	  <Variable Name="model/Frac_asy_yS_P_U" Header="spu" />
+	  <Variable Name="model/Frac_asy_yX_P_U" Header="xpu" />
+      <Variable Name="model/Frac_asy_yS_O2" Header="so2" />
+      <Variable Name="model/Frac_asy_yX_IG" Header="iss" />
+      <Variable Name="model/Frac_asy_yS_ALK" Header="alk" />
+    </Variables>
+  </Unit>
+
+</Units>
